@@ -24,17 +24,6 @@ the values are either all identical or all different.
 - **Python** – Image processing and card recognition.
 - **OpenCV** – Computer vision and image analysis.
 
-## Project Structure
-
-```text
-SET-Detector/
-├── C++/
-│   └── ...
-├── Python/
-│   └── ...
-└── README.md
-```
-
 ## Features
 
 - Automatic card detection from images.
