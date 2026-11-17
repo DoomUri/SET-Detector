@@ -31,6 +31,15 @@ the values are either all identical or all different.
 - Efficient identification of valid SET combinations.
 - Integration of computer vision and algorithmic problem solving.
 
-## Purpose
+## Execution
 
-This project combines computer vision and algorithm design to solve a real-world problem through image processing and efficient computation.
+Make sure **Python** is installed on your system before running the application.
+
+1. Open `test.py` and specify the path to the image you want to process.
+2. Run the following command from the project directory:
+
+   ```bash
+   python test.py
+   ```
+
+3. The detected SET combinations and processing results will be saved in the `Sets/` directory.
