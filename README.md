@@ -15,16 +15,8 @@ The application is divided into two main components:
 - **Card Recognition (Python):** Uses OpenCV to process images, detect individual cards and identify their attributes.
 - **SET Solver (C++):** Receives the recognized cards and finds all valid SET combinations.
 
-The detected cards are represented using four attributes:
-
-| Attribute | Possible values |
-|---|---|
-| Color | Red, Green, Purple |
-| Shape | Diamond, Squiggle, Oval |
-| Shading | Solid, Striped, Empty |
-| Number | 1, 2, 3 |
-
-A valid SET consists of three cards where, for each attribute, the values are either all identical or all different.
+The detected cards are represented using four attributes and a valid SET consists of three cards where, for each attribute, 
+the values are either all identical or all different.
 
 ## Technologies
 
