@@ -1,0 +1,1 @@
+lila,buit,rombe,1 verd,buit,rombe,3 verd,buit,serp,2 vermell,ratllat,oval,1 verd,buit,oval,1 vermell,ratllat,rombe,1 vermell,ratllat,serp,1 vermell,opac,serp,3 vermell,opac,oval,1 lila,buit,serp,1 verd,ratllat,oval,2 vermell,buit,oval,3 0
