@@ -43,3 +43,9 @@ Make sure **Python** is installed on your system before running the application.
    ```
 
 3. The detected SET combinations and processing results will be saved in the `Sets/` directory.
+
+## Future Improvements
+
+One of the main goals for future development is to create a dedicated application with a user-friendly interface, allowing users to take or upload a picture of a SET board and automatically detect all valid combinations without having to run the Python script manually.
+
+The aim is to make the project more accessible and provide a complete, interactive experience.
