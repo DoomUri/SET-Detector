@@ -24,13 +24,6 @@ the values are either all identical or all different.
 - **Python** – Image processing and card recognition.
 - **OpenCV** – Computer vision and image analysis.
 
-## Features
-
-- Automatic card detection from images.
-- Recognition of the four card attributes.
-- Efficient identification of valid SET combinations.
-- Integration of computer vision and algorithmic problem solving.
-
 ## Execution
 
 Make sure **Python** is installed on your system before running the application.
